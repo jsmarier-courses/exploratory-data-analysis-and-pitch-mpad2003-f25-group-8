@@ -64,17 +64,25 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 - No missing variables in the columns we are interested in
 <br>
 - The sum of the population of each age group for each ward is equal to the total population of each ward +/- 10
+<br>
 ![](age_sums.png)
+*Figure 1: This table shows the populations of each ward, the number of people in different age groups, and the sums of all the age groups for each ward*
+<br>
 - The number of people in each age range follows trends and there are no outliers
+<br>
+![](VIMO_age_graph.png)
+*Figure 2: This graph shows trends in the populations of different age groups in four wards*
 <br>
 - The sum of people in different total income levels with for each ward is equal to the number of people with total income in each ward +/- 10
 <br>
+![](income_sums.png)
+*Figure 3: This table shows the populations of each ward, the number of people in different income levels, and the sums of all the income levels for each ward*
+<br>
 - The number of people in different total income levels for each ward follows trends and there are no outliers
+<br>
+![](VIMO_income_graph.png)
+*Figure 2: This graph shows trends in the populations of different income levels in four wards*
 
-
-**For example:**
-
-As Cairo (2016) argues, a data visualization should be truthful...
 
 ### 3.2. Cleaning Data
 
