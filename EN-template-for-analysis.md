@@ -59,11 +59,18 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 
 ### 3.1. VIMO Analysis
 
-Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
+- The dataset comes from a questionnaire sent to 25% of households in Ottawa, so while it might not paint a complete portrait of the population, it is useful for identifying general trends.
+<br>
+- No missing variables in the columns we are interested in
+<br>
+- The sum of the population of each age group for each ward is equal to the total population of each ward +/- 10
+![](age_sums.png)
+- The number of people in each age range follows trends and there are no outliers
+<br>
+- The sum of people in different total income levels with for each ward is equal to the number of people with total income in each ward +/- 10
+<br>
+- The number of people in different total income levels for each ward follows trends and there are no outliers
 
-Insert text here.
-
-Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
 **For example:**
 
