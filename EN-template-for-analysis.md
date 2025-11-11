@@ -95,8 +95,10 @@ The most rewarding aspect was discovering patterns that told a real story about 
 
 ## 6. References
 
-Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references). Hanging paragraphs aren't required though.
+2021 Long Form Census - Ward data. (n.d.). https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/about
 
-**Here's an example:**
+Ward maps and school board zones. City of Ottawa. https://ottawa.ca/en/city-hall/elections/ward-maps-and-school-board-zones#
 
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+Jean-Sébastien Marier. (2021, October 19). Using Pivot Tables in Google Sheets [Video] Youtube. https://www.youtube.com/watch?v=cCVl0h-9HmU
+
+Jean-Sébastien Marier. (2021, October 9). Cleaning Data in Google Sheets[Video] Youtube. https://www.youtube.com/watch?v=cCVl0h-9HmU
