@@ -86,7 +86,10 @@ It would be a good idea to interview the councillors from any of the wards. For 
 
 ## 5. Conclusion
 
-Insert text here.
+Throughout this project, our goal was to explore the City of Ottawa’s 2021 Long Form Census and uncover meaningful stories within the data. Our analysis focused on comparing suburban and downtown wards, specifically examining how age distribution and income levels vary across these areas. In doing so, we gained valuable insights into the relationship between geography, family demographics, and economic inequality in Ottawa.
+The most challenging part of this assignment was cleaning and organizing the data. The dataset was large, detailed, and occasionally inconsistent, which required patience and careful attention to ensure accuracy. Another challenge was narrowing down our focus. There were so many possible directions the data could lead us, but we learned the importance of selecting a clear and specific research question.
+The most rewarding aspect was discovering patterns that told a real story about the city we live in — such as why certain areas attract young families. Also, seeing that data displayed graphically was very satisfying, especially after knowing what the data looked like to start with.  
+
 
 ## 6. References
 
