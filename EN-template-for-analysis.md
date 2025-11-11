@@ -59,7 +59,9 @@ As we can see in the graphs, the data follows each other's trends, and there are
 After this VIMO analysis, I have concluded that this dataset is valid, accurate, and fit for further analysis.
 ### 3.2. Cleaning Data
 
-Insert text here.
+To prepare the dataset for analysis, I began by deleting all unnecessary columns and rows, keeping only five key columns that were most relevant to the story. This helped simplify the data and focus on what was most important. I then froze the first row to keep the column headers visible while scrolling, ensuring the data remained consistent and easy to follow. After that, I created filters for all rows, which made sorting and searching for specific information much easier. I also removed any duplicate rows to avoid repetition and maintain data accuracy. Using the “Find and Replace” function in Google Sheets allowed me to correct or update recurring entries efficiently. Once the structure was cleaned, I focused on trimming the dataset further by deleting rows that did not relate directly to the story. I was able to remove data that were not relevant to income, and age. This step was especially time-consuming since the dataset originally contained over 2,000 rows. I carefully went through each section, separating different variable groups to make the data clearer and more organized. After this process, the dataset was reduced to just over 200 rows, leaving only the information most relevant to the story and making it much easier to interpret and analyze.
+
+![](Clean-data-table-capture.png)<br>
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
