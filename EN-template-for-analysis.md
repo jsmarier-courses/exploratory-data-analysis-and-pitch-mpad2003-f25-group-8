@@ -23,11 +23,7 @@ In the following sections, we will be describing how the dataset was originally,
 
 ![](Raw-Original-dataset-capture.png)
 
-To import the dataset into Google Sheets, the first step is to right-click on the webpage containing the data and select “Save as.” After saving the file to your computer, open Google Sheets and import the saved data file. When the import window appears, make sure to change the separator type to “comma” to ensure that the values are properly formatted into separate columns. Once imported, the dataset reveals that it contains 26 columns and 2063 rows, making it quite large and complex. At first glance, the data appears messy and unclear, as it includes mixed data types within several columns and rows that represent totals or subtotals rather than specific wards. These non-ward rows should be excluded to maintain clarity and accuracy in the analysis. The dataset is also wide, meaning that each variable, such as income, population, or education level, is represented by a separate column rather than grouped categories.
-
-Focusing on specific wards, several patterns emerge. In Rideau-Vanier (Ward 12), the quantitative continuous variables show that this area generally has a lower median total income compared to suburban wards, suggesting higher levels of economic inequality in Ottawa’s central neighborhoods. The proportion of residents aged 0–14 years is relatively low, indicating fewer families with young children. Similarly, Somerset (Ward 14) also shows continuous quantitative data, typically reflecting the lowest median household income among all wards, a smaller percentage of children, and a higher share of working-age adults. By contrast, Barrhaven West (Ward 3) demonstrates higher median household incomes and one of the largest youth populations, aligning with its suburban, family-oriented character. Education levels are relatively high here, though slightly below those of more urban wards. Finally, Orleans East-Cumberland (Ward 1) displays strong middle to upper-middle-class characteristics, with high median incomes and one of the highest proportions of children, further emphasizing its family-centered demographic.
-
-Overall, this dataset primarily contains discrete and quantitative variables. A key research question that emerges from these observations is: How do income levels and age distributions differ between downtown and suburban wards in Ottawa, and what might these differences reveal about family demographics and economic inequality?
+ 
 
 Here is a link to the googlesheets spreadsheet: https://docs.google.com/spreadsheets/d/16tJjQn6W34JQ_Rc1QmY7sKetsYflTDc6xKRWELXjo8k/edit?usp=sharing    
 
@@ -69,18 +65,16 @@ To prepare the dataset for analysis, I began by deleting all unnecessary columns
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
-Insert text here.
+We chose to look at the income and age differences between wards in downtown and suburban Ottawa because we noticed that they follow different trends and wanted to know why that might be. 
 
-**This section should include a screen capture of your pivot table, like so:**
+Something that stands out to me is that the population of age demographics of the wards in the suburbs is fairly consistent, while in downtown, they vary wildly, suddenly rising and then falling. A potential story here could be investigating the reasons that the number of people increases from ages 15 to 29 in downtown, then begins to decrease again, before settling at ages 45 and up (refer to figure 3).  
 
-![](pivot-table-screen-capture.png)<br>
-*Figure 2: This pivot table shows...*
+![](pie_charts.png)
+*Figure 5: Pie charts showing the age demographics in the four wards*
+The number of people in different income levels in downtown are similarly erratic, whereas the distribution is again consistent in the suburbs. We could look at if and why the stats generally seem to be more erratic in downtown wards, while the stats in suburban wards seem to be more steady (refer to figure 4).
 
-**This section should also include a screen capture of your exploratory chart, like so:**
-
-![](chart-screen-capture.png)<br>
-*Figure 3: This exploratory chart shows...*
-
+![](pivot_table.png)
+*Figure 5: Pivot table showing the age groups of the four wards*
 ## 4. Potential Story
 
 Insert text here.
