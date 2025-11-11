@@ -77,7 +77,12 @@ The number of people in different income levels in downtown are similarly errati
 *Figure 5: Pivot table showing the age groups of the four wards*
 ## 4. Potential Story
 
-Insert text here.
+As we know, a long form census collects detailed information about a city and its residents. It can be used to help provide insight into what life in Ottawa is like in each of the different wards. Our data revealed interesting patterns that could be used to tell numerous stories. If we were to create our own story from the dataset we analyzed, our focus would be on the variation in age distributions across different wards. Why does Barrhaven West have more young people than any other ward? Does this mean it is a better place for raising a family? Why and why not? With further research, these questions could lead to some newsworthy stories. 
+
+These questions prompted us to do additional research. We wanted to see if the wards with larger portions of people aged 0-14 years were advertised as family-friendly neighbourhoods, and why. Lots of online articles and blogs suggested Barrhaven and Orléans as family-friendly neighbourhoods, which aligns with what our data shows us. Furthermore, we found on the City of Ottawa website that Barrhaven and Orléans have more schools than most districts. Having more schools and amenities in the area attracts young families, which is clearly reflected in this data. 
+
+It would be a good idea to interview the councillors from any of the wards. For example, an interview with Rideau-Vanier’s councillor Stephanie Plante would be a perfect opportunity to ask about what can be done to attract more young families to the area. Or in an interview with Barrhaven West’s David Hill or Orléans’ Matthew Luloff we could ask about what they think makes the area so ideal for young families. 
+
 
 ## 5. Conclusion
 
